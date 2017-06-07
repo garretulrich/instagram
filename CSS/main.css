@@ -1,7 +1,16 @@
 @charset "UTF-8";
 
 
-
+.LOGO {
+  background-image: url("images/LOGO.png");
+  position: absolute;
+  left: 12px;
+  top: 8px;
+  width: 124px;
+  height: 65px;
+  z-index: 2;
+  margin: 0 auto;
+}
 
 .Heading {
   font-size: 24px;
